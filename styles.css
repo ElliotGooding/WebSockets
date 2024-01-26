@@ -1,0 +1,19 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    font-family: monospace;
+    font-size: 20px;
+    overflow-x: hidden;
+}
+
+canvas{
+    position: absolute;
+    top: 20%;
+}
+
+#playerNum{
+    font-size: 70px;
+}
